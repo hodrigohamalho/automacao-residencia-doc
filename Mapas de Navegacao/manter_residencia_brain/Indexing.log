@@ -1,0 +1,12 @@
+Loading IndexBuilder
+Loading index registry [/Users/kah/ucb/aaa_novo_projeto/documentacao/Mapas de Navegacao/manter_residencia_brain/IndexBuilder.dat]
+Reading index registry [Safe point: undefined]
+IndexBuilder created [BrainAPI = connected; BrainListener = connected; bulkMode = true; maxCPU = 0.25; showStatus = false; logFile = null; startTime = null; stopTime = null; total = 0; processed = 0; indexed = 0; indexBuilderDat = /Users/kah/ucb/aaa_novo_projeto/documentacao/Mapas de Navegacao/manter_residencia_brain/IndexBuilder.dat (empty); indexing = false]
+Reading index registry [Safe point: undefined]
+Index status: safe
+Loading UrlIndexBuilder
+Loading index registry [/Users/kah/ucb/aaa_novo_projeto/documentacao/Mapas de Navegacao/manter_residencia_brain/UrlIndexBuilder.dat]
+Reading index registry [Safe point: undefined]
+UrlIndexBuilder created [BrainAPI = connected; backgroundRunning = true; synchronizedThread = 4; maxCPU = 0.5; showStatus = false; logFile = null; startTime = null; stopTime = null; total = 0; processed = 0; indexed = 0; indexBuilderDat = /Users/kah/ucb/aaa_novo_projeto/documentacao/Mapas de Navegacao/manter_residencia_brain/UrlIndexBuilder.dat (empty); indexing = false]
+Reading index registry [Safe point: undefined]
+Index status: safe

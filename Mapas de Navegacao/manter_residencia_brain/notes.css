@@ -1,0 +1,34 @@
+/*
+
+This file contains the default styles that are applied to all Notes in PersonalBrain.
+Do not modify this file unless you are comfortable with CSS as making changes could cause 
+unpredictable problems with your notes.
+
+If you are confident in your CSS abilities:
+
+ * Modify this file and save it in the PersonalBrain/res folder to change the default settings
+   for notes in all Brains.
+   
+ * Modify this file and save it in a _brain folder to change the default settings for notes for
+   just that single Brain.
+
+ * The file notesMac.css is used when running under Mac OS X and is only loaded from the res
+   folder. This file will not be loaded from an _brain folder.
+
+
+*/
+
+BODY {
+  /* default font */
+  font-family: Helvetica;
+  font-size: small;
+  /* background color and foreground color */
+  background: #ffffff;
+  color: #000000;
+}
+
+P {
+  /* set the margin values to 0 for single line spacing */
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BrainInfo>
+  <ID>1</ID>
+  <GUID>CB2F938E-492F-C1F4-D51B-8055FB1D22DD</GUID>
+  <AppVersion>6071</AppVersion>
+  <MinAppVersion>6055</MinAppVersion>
+  <Name>manter_residencia</Name>
+  <OwnerID>0</OwnerID>
+  <HomeID>1</HomeID>
+  <creationDateTime>1306954024569</creationDateTime>
+  <modificationDateTime>1306954024610</modificationDateTime>
+  <xmlPrefs>&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;gt;
+&amp;lt;BrainPreferences&amp;gt;
+  &amp;lt;BrainOptions&amp;gt;
+    &amp;lt;tileWallpaper&amp;gt;false&amp;lt;/tileWallpaper&amp;gt;
+    &amp;lt;thoughtBackgroundColors&amp;gt;false&amp;lt;/thoughtBackgroundColors&amp;gt;
+    &amp;lt;BrainContextString Number=&amp;quot;0&amp;quot;/&amp;gt;
+    &amp;lt;BrainContextString Number=&amp;quot;10000&amp;quot;/&amp;gt;
+    &amp;lt;BrainContextString Number=&amp;quot;3&amp;quot;&amp;gt;SansSerif&amp;lt;/BrainContextString&amp;gt;
+  &amp;lt;/BrainOptions&amp;gt;
+  &amp;lt;BrainColors&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;0&amp;quot;&amp;gt;ff000000&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;1&amp;quot;&amp;gt;ff1e62be&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;2&amp;quot;&amp;gt;ffffffff&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;3&amp;quot;&amp;gt;ff007c9d&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;7&amp;quot;&amp;gt;ffff5735&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;8&amp;quot;&amp;gt;ff000000&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;9&amp;quot;&amp;gt;ff03cb2c&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;11&amp;quot;&amp;gt;ff00ade9&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;12&amp;quot;&amp;gt;ff03cb2c&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;13&amp;quot;&amp;gt;ff0082a8&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;15&amp;quot;&amp;gt;ffffff80&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;16&amp;quot;&amp;gt;ff003e55&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;17&amp;quot;&amp;gt;ff003e55&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;18&amp;quot;&amp;gt;ff000000&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;19&amp;quot;&amp;gt;ffffffff&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;20&amp;quot;&amp;gt;ffffff00&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;23&amp;quot;&amp;gt;ff0082a8&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;25&amp;quot;&amp;gt;ff0082a8&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;26&amp;quot;&amp;gt;ff03cb2c&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;33&amp;quot;&amp;gt;ffffffff&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;34&amp;quot;&amp;gt;ff000000&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;35&amp;quot;&amp;gt;ff000000&amp;lt;/BrainContextColor&amp;gt;
+    &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;36&amp;quot;&amp;gt;ffff4444&amp;lt;/BrainContextColor&amp;gt;
+  &amp;lt;/BrainColors&amp;gt;
+  &amp;lt;BrainPins/&amp;gt;
+&amp;lt;/BrainPreferences&amp;gt;
+</xmlPrefs>
+  <notesCSS/>
+  <xmlExtras/>
+</BrainInfo>
